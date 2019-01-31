@@ -1,0 +1,12 @@
+fieldset{
+    border:none;
+}
+body{
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    padding: 20px;
+    margin: 8px;
+    margin-right: 800px;
+
+}
